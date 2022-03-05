@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="754" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="boolalpha" />
       <item value="Clang-Tidy: Pass by value and use std::move" />
       <item value="gender" />
       <item value="explicit" />
@@ -11,7 +12,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="2" />
-        <entry key="ENGLISH" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
