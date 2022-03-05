@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="754" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="all Static" />
+      <item value="primitive Conversions" />
+      <item value="Base class for classes used as namespaces. HotSpot style prefers using classes for grouping. Deriving from this class indicates the derived class is intended to be a namespace, with no instances ever created." />
       <item value="Cannot initialize a variable of type 'int *' with an rvalue of type 'const int *'" />
       <item value="boolalpha" />
       <item value="Clang-Tidy: Pass by value and use std::move" />
@@ -12,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
