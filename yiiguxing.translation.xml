@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="754" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="Binutils should be configured with the '--disable-nls' flag to disable Native Language Support, otherwise you might get an &quot;undefined reference to `libintl_gettext'&quot; if you try to load hsdis.so on systems which don't have NLS by default. It also avoids build problems on other configurations that don't include the full NLS support." />
+      <item value="The makefile looks for the sources in buildbinutils or you can specify its location to the makefile using BINUTILS=path. It will configure binutils and build it first and then build and link the disassembly adapter. Make all will build the default target for your platform. If your platform supports both 32 and 64 simultaneously then &quot;make both&quot; will build them both at once. &quot;make all64&quot; will explicitly build the 64 bit version. By default this will build the disassembler library only. If you build demo it will build a demo program that attempts to exercise the library. With recent version of binutils (i.e. binutils-2.23.2) you may get the following build error: WARNING: `makeinfo' is missing on your system. You should only need it if you modified a `.texi' or `.texinfo' file, or any other file ... This is because of &quot;Bug 15345 - binutils-2.23.2 tarball doesn't build without makeinfo&quot; [2]. The easiest way to work around this problem is by doing a &quot;touch BINUTILSbfddocbfd.info&quot;." />
       <item value="render" />
       <item value="all Static" />
       <item value="primitive Conversions" />
@@ -16,12 +18,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646464319998" />
+    <option name="lastTrimTime" value="1649063729798" />
   </component>
 </application>
