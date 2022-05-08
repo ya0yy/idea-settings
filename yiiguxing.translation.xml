@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="754" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="previous" />
+      <item value="compatibility" />
       <item value="literal" />
       <item value="set file offset to current plus offset" />
       <item value="define SEEK_DATA 4 set file offset to the start of the next non-hole file region greater than or equal to the supplied offset" />
@@ -34,12 +36,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="26" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1650205084614" />
+    <option name="lastTrimTime" value="1651991858754" />
   </component>
 </application>
