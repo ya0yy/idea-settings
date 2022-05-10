@@ -3,6 +3,16 @@
     <option name="newTranslationDialogX" value="754" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="New request from Java thread, evaluate prologue" />
+      <item value="JavaThread or WatcherThread" />
+      <item value="Avoid re-entrant attempts to gc-a-lot" />
+      <item value="reach" />
+      <item value="should never reach here; but in case something wrong with VM Thread." />
+      <item value="epilogue" />
+      <item value="doit" />
+      <item value="probe" />
+      <item value="dtrace" />
+      <item value="STABILITY" />
       <item value="Schedule a Full GC." />
       <item value="most likely a pending OOM" />
       <item value="The particular choice of collected heap." />
@@ -43,14 +53,12 @@
       <item value="Cannot initialize a variable of type 'int *' with an rvalue of type 'const int *'" />
       <item value="boolalpha" />
       <item value="Clang-Tidy: Pass by value and use std::move" />
-      <item value="gender" />
-      <item value="explicit" />
-      <item value="Clang-Tidy: Inclusion of deprecated C++ header 'string.h'; consider using 'cstring' instead" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
+        <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
