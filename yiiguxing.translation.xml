@@ -3,8 +3,18 @@
     <option name="newTranslationDialogX" value="754" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
-      <item value="epilogue" />
+      <item value="attempts" />
+      <item value="This class is a friend of most classes, to be able to access" />
+      <item value="This stack allocated ThreadsListHandle and JavaThreadIterator combo is used to walk the ThreadsList in the included ThreadsListHandle using the following style:" />
+      <item value="VM exits at safepoint. This function must be called at the final safepoint to wait for threads in _thread_in_native state to be quiescent." />
+      <item value="Compile Broker" />
+      <item value="94% of them come here without any threads still running in native; the other 6% are quiescent within 250ms (Ultra 80)." />
+      <item value="Among" />
+      <item value="Among 16276 JCK tests, 94% of them come here without any threads still running in native; the other 6% are quiescent within 250ms (Ultra 80)." />
+      <item value="Any thread still executing native code after the wait will be stopped at native==&gt;JavaVM barriers." />
+      <item value="Wait for a short period for threads in native to block" />
       <item value="wait until executed" />
+      <item value="epilogue" />
       <item value="doit epilogue" />
       <item value="New request from Java thread, evaluate prologue" />
       <item value="JavaThread or WatcherThread" />
@@ -43,21 +53,11 @@
       <item value="Unlock Diagnostic VM Options" />
       <item value="Flags must be declared with the following number of parameters:" />
       <item value="product flags are always settable visible" />
-      <item value="develop flags are settable visible only during development and are constant in the PRODUCT version" />
-      <item value="settable" />
-      <item value="Disassembler" />
-      <item value="Binutils should be configured with the '--disable-nls' flag to disable Native Language Support, otherwise you might get an &quot;undefined reference to `libintl_gettext'&quot; if you try to load hsdis.so on systems which don't have NLS by default. It also avoids build problems on other configurations that don't include the full NLS support." />
-      <item value="The makefile looks for the sources in buildbinutils or you can specify its location to the makefile using BINUTILS=path. It will configure binutils and build it first and then build and link the disassembly adapter. Make all will build the default target for your platform. If your platform supports both 32 and 64 simultaneously then &quot;make both&quot; will build them both at once. &quot;make all64&quot; will explicitly build the 64 bit version. By default this will build the disassembler library only. If you build demo it will build a demo program that attempts to exercise the library. With recent version of binutils (i.e. binutils-2.23.2) you may get the following build error: WARNING: `makeinfo' is missing on your system. You should only need it if you modified a `.texi' or `.texinfo' file, or any other file ... This is because of &quot;Bug 15345 - binutils-2.23.2 tarball doesn't build without makeinfo&quot; [2]. The easiest way to work around this problem is by doing a &quot;touch BINUTILSbfddocbfd.info&quot;." />
-      <item value="render" />
-      <item value="all Static" />
-      <item value="primitive Conversions" />
-      <item value="Base class for classes used as namespaces. HotSpot style prefers using classes for grouping. Deriving from this class indicates the derived class is intended to be a namespace, with no instances ever created." />
-      <item value="Cannot initialize a variable of type 'int *' with an rvalue of type 'const int *'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
