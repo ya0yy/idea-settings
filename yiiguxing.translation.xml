@@ -3,10 +3,16 @@
     <option name="newTranslationDialogX" value="754" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="examine state of thread" />
+      <item value="determined" />
+      <item value="Iterate through all threads until it has been determined how to stop them all at a safepoint." />
+      <item value="Will spin until all threads are safe." />
+      <item value="Arms the safepoint, _current_jni_active_count and _waiting_to_block must be set before." />
+      <item value="thread not running" />
+      <item value="rewind" />
       <item value="We must never miss a thread with correct safepoint id, so we must make sure we arm the wait barrier for the next safepoint idcounter. Arming must be done after resetting _current_jni_active_count, _waiting_to_block." />
       <item value="Arms the safepoint" />
       <item value="Arms" />
-      <item value="Arms the safepoint, _current_jni_active_count and _waiting_to_block must be set before." />
       <item value="set requires cross modify fence" />
       <item value="Mark all threads" />
       <item value="VM thread and any NonJavaThread may be running." />
@@ -47,17 +53,11 @@
       <item value="dtrace" />
       <item value="For now, just a dtrace probe." />
       <item value="keypress" />
-      <item value="... but if it didn't, we must do it here" />
-      <item value="attempts" />
-      <item value="This class is a friend of most classes, to be able to access" />
-      <item value="This stack allocated ThreadsListHandle and JavaThreadIterator combo is used to walk the ThreadsList in the included ThreadsListHandle using the following style:" />
-      <item value="VM exits at safepoint. This function must be called at the final safepoint to wait for threads in _thread_in_native state to be quiescent." />
-      <item value="Compile Broker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="FRENCH" value="3" />
       </map>
     </option>
