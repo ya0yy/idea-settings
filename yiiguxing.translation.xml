@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="754" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="ensure parsability" />
+      <item value="make parsable" />
+      <item value="retire tlabs" />
+      <item value="Thread-Local Allocation Buffer (TLAB) support" />
+      <item value="retire" />
+      <item value="Among other things, this ensures that Eden top is correct." />
       <item value="Silent verification so as not to pollute normal output, unless we really asked for it." />
       <item value="prepare for verify" />
       <item value="doit" />
@@ -47,17 +53,11 @@
       <item value="attempting" />
       <item value="To force retry in debugger: assign _tried_to_load_library=0" />
       <item value="fails always." />
-      <item value="Failed once" />
-      <item value="Print GCheap related information." />
-      <item value="Shut down string deduplication if running." />
-      <item value="Stop the WatcherThread. We do this before disenrolling various PeriodicTasks to reduce the likelihood of races." />
-      <item value="Hang forever on exit if we're reporting an error." />
-      <item value="alignment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="88" />
+        <entry key="ENGLISH" value="89" />
         <entry key="FRENCH" value="3" />
       </map>
     </option>
