@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="754" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="wait until executed" />
+      <item value="until" />
       <item value="Convenience wrapper around naked_short_sleep to allow for longer sleep times. Only for use by non-JavaThreads." />
       <item value="probe" />
       <item value="dtrace" />
@@ -19,7 +21,6 @@
       <item value="Among 16276 JCK tests, 94% of them come here without any threads still running in native; the other 6% are quiescent within 250ms (Ultra 80)." />
       <item value="Any thread still executing native code after the wait will be stopped at native==&gt;JavaVM barriers." />
       <item value="Wait for a short period for threads in native to block" />
-      <item value="wait until executed" />
       <item value="epilogue" />
       <item value="doit epilogue" />
       <item value="New request from Java thread, evaluate prologue" />
@@ -52,12 +53,11 @@
       <item value="Loads .dll.so and in case of error it checks if .dll.so was built for the same architecture as Hotspot is running on" />
       <item value="macro" />
       <item value="constraint is a macro that will expand to custom function call for constraint checking if provided - see jvmFlagLimit.hpp" />
-      <item value="range is a macro that will expand to min and max arguments for range checking code if provided - see jvmFlagLimit.hpp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="71" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
