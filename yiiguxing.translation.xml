@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="754" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="Note: we don't wait until it actually dies." />
+      <item value="Terminate the signal thread" />
       <item value="Jvmti Java Thread Event Transition" />
       <item value="I PHASE PRIMORDIAL" />
       <item value="get phase" />
@@ -51,13 +53,11 @@
       <item value="previous" />
       <item value="compatibility" />
       <item value="literal" />
-      <item value="set file offset to current plus offset" />
-      <item value="define SEEK_DATA 4 set file offset to the start of the next non-hole file region greater than or equal to the supplied offset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
