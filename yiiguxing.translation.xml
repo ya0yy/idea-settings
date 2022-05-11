@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="754" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="By getting the Threads_lock, we assure that no threads are about to start or exit. It is released again in SafepointSynchronize::end()." />
+      <item value="Roll all threads forward to a safepoint and suspend them all" />
       <item value="We must be &quot;in_vm&quot; for the code below to work correctly. Historically there must have been some exit path for which that was not the case and so we set it explicitly - even though we no longer know what that path may be." />
       <item value="naked" />
       <item value="ensure parsability" />
@@ -51,13 +53,11 @@
       <item value="Schedule a Full GC." />
       <item value="most likely a pending OOM" />
       <item value="The particular choice of collected heap." />
-      <item value="no precompiled headers" />
-      <item value="attempting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="FRENCH" value="3" />
       </map>
     </option>
