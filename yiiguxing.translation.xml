@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="754" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="Convenience wrapper around naked_short_sleep to allow for longer sleep times. Only for use by non-JavaThreads." />
+      <item value="probe" />
+      <item value="dtrace" />
+      <item value="For now, just a dtrace probe." />
+      <item value="keypress" />
+      <item value="... but if it didn't, we must do it here" />
       <item value="attempts" />
       <item value="This class is a friend of most classes, to be able to access" />
       <item value="This stack allocated ThreadsListHandle and JavaThreadIterator combo is used to walk the ThreadsList in the included ThreadsListHandle using the following style:" />
@@ -22,8 +28,6 @@
       <item value="reach" />
       <item value="should never reach here; but in case something wrong with VM Thread." />
       <item value="doit" />
-      <item value="probe" />
-      <item value="dtrace" />
       <item value="STABILITY" />
       <item value="Schedule a Full GC." />
       <item value="most likely a pending OOM" />
@@ -49,15 +53,11 @@
       <item value="macro" />
       <item value="constraint is a macro that will expand to custom function call for constraint checking if provided - see jvmFlagLimit.hpp" />
       <item value="range is a macro that will expand to min and max arguments for range checking code if provided - see jvmFlagLimit.hpp" />
-      <item value="DIAGNOSTIC" />
-      <item value="Unlock Diagnostic VM Options" />
-      <item value="Flags must be declared with the following number of parameters:" />
-      <item value="product flags are always settable visible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="FRENCH" value="2" />
       </map>
     </option>
