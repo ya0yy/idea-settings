@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="754" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="Stub Routines" />
       <item value="Link all classes for dynamic CDS dumping before vm exit." />
       <item value="examine state of thread" />
       <item value="determined" />
@@ -52,12 +53,11 @@
       <item value="Convenience wrapper around naked_short_sleep to allow for longer sleep times. Only for use by non-JavaThreads." />
       <item value="probe" />
       <item value="dtrace" />
-      <item value="For now, just a dtrace probe." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="FRENCH" value="3" />
       </map>
     </option>
