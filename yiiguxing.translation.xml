@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="754" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="virtual" />
       <item value="Insecure" />
       <item value="Insecure Channel Credentials" />
       <item value="before Dragging Pos" />
@@ -52,12 +53,11 @@
       <item value="Jvmti Java Thread Event Transition" />
       <item value="I PHASE PRIMORDIAL" />
       <item value="get phase" />
-      <item value="should post thread life" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="125" />
-        <entry key="ENGLISH" value="126" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="FRENCH" value="3" />
       </map>
     </option>
