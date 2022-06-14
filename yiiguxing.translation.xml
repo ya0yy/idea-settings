@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="754" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="Should Not Reach Here" />
       <item value="we are properly initialized" />
       <item value="Performs initialization at vm startup For Linux we remove any stale .java_pid file which could cause an attaching process to think we are ready to receive on the domain socket before we are properly initialized" />
       <item value="The following examples show how to set the initial and maximum size of young generation to 256 MB using various units:" />
@@ -52,12 +53,11 @@
       <item value="prepare for verify" />
       <item value="doit" />
       <item value="Terminate the signal thread Note: we don't wait until it actually dies." />
-      <item value="Note: we don't wait until it actually dies." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
-        <entry key="ENGLISH" value="132" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="FRENCH" value="3" />
       </map>
     </option>
