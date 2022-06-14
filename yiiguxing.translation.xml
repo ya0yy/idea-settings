@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="754" />
     <option name="newTranslationDialogY" value="539" />
     <histories>
+      <item value="The following examples show how to set the initial and maximum size of young generation to 256 MB using various units:" />
       <item value="Insecure Channel Credentials" />
       <item value="Create Channel Internal" />
       <item value="virtual" />
@@ -52,17 +53,16 @@
       <item value="Note: we don't wait until it actually dies." />
       <item value="Terminate the signal thread" />
       <item value="Jvmti Java Thread Event Transition" />
-      <item value="I PHASE PRIMORDIAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="FRENCH" value="3" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654700409772" />
+    <option name="lastTrimTime" value="1655172767454" />
   </component>
 </application>
