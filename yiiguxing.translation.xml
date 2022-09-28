@@ -1,0 +1,83 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="454" />
+    <option name="newTranslationDialogY" value="776" />
+    <histories>
+      <item value="don't worry overwrite, we only need any one" />
+      <item value="don't worry overwrite, we only need anyone" />
+      <item value="don't worry overwrite, we only need one" />
+      <item value="evaluation" />
+      <item value="traversed" />
+      <item value="OK if null unless traversed" />
+      <item value="fence" />
+      <item value="intermediate" />
+      <item value="stateless" />
+      <item value="SIZED" />
+      <item value="PRESERVE BITS" />
+      <item value="The bit pattern for settinginjecting a flag." />
+      <item value="put If Absent" />
+      <item value="position" />
+      <item value="CIRCUIT" />
+      <item value="The bit position in the bit mask." />
+      <item value="The bit mask for spliterator characteristics" />
+      <item value="Do not propagate the SORTED characteristic if it does not correspond to a natural sort order" />
+      <item value="fill List" />
+      <item value="for Each Remaining" />
+      <item value="characteristics" />
+      <item value="report 1 even if threads disabled" />
+      <item value="int par = common.config &amp; SMASK; report 1 even if threads disabled" />
+      <item value="common Parallelism" />
+      <item value="Twc Lease Base Service 2" />
+      <item value="established" />
+      <item value="IMMEDIATE" />
+      <item value="rental" />
+      <item value="Must final in principle, but it needs a container here" />
+      <item value="is Joint Lease" />
+      <item value="Method 'createRequester()' recurses infinitely, and can only end by throwing an exception" />
+      <item value="Guarantee" />
+      <item value="relative Path" />
+      <item value="This failure was cached in the local repository and resolution is not reattempted until the update interval of alimaven has elapsed or updates are forced and 'parent.relativePath' points at wrong local POM @ line 5, column 13 -&gt; [Help 2]" />
+      <item value="LOWEST PRECEDENCE" />
+      <item value="fix micro change" />
+      <item value="incise Ext" />
+      <item value="singletons Currently In Destruction" />
+      <item value="Destruction" />
+      <item value="loan Amt" />
+      <item value="Mutable List" />
+      <item value="The event classes that this listener handles. If this attribute is specified with a single value, the annotated method may optionally accept a single parameter. However, if this attribute is specified with multiple values, the annotated method must not declare any parameters." />
+      <item value="Renames the file denoted by this abstract pathname. Many aspects of the behavior of this method are inherently platform-dependent: The rename operation might not be able to move a file from one filesystem to another, it might not be atomic, and it might not succeed if a file with the destination abstract pathname already exists. The return value should always be checked to make sure that the rename operation was successful." />
+      <item value="lateinit" />
+      <item value="coerce At Most" />
+      <item value="logretentiondays" />
+      <item value="This failure was cached in the local repository and resolution is not reattempted until the update interval of rdc-releases has elapsed or updates are forced" />
+      <item value="birth Place" />
+      <item value="@param source the object on which the event initially occurred or with which the event is associated (never {@code null})" />
+      <item value="associated" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="621" />
+        <entry key="ENGLISH" value="622" />
+        <entry key="ICELANDIC" value="1" />
+        <entry key="AFRIKAANS" value="1" />
+        <entry key="DANISH" value="2" />
+        <entry key="GERMAN" value="4" />
+        <entry key="FRENCH" value="3" />
+        <entry key="HAITIAN_CREOLE" value="1" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="NORWEGIAN" value="2" />
+        <entry key="JAPANESE" value="1" />
+        <entry key="SWEDISH" value="1" />
+        <entry key="ESPERANTO" value="1" />
+        <entry key="SLOVAK" value="1" />
+        <entry key="TURKISH" value="1" />
+        <entry key="HUNGARIAN" value="1" />
+        <entry key="JAVANESE" value="1" />
+        <entry key="VIETNAMESE" value="3" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1664172133978" />
+  </component>
+</application>
