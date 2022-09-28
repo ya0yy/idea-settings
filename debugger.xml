@@ -1,6 +1,5 @@
 <application>
   <component name="DebuggerSettings">
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapNever" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -86,25 +85,10 @@
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
-    <filter>
-      <option name="PATTERN" value="androidx.compose.runtime.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-  </component>
-  <component name="NodeRendererSettings">
-    <Renderer ID="ToStringRenderer">
-      <option name="ON_DEMAND" value="true" />
-    </Renderer>
-  </component>
-  <component name="ViewsSettings">
-    <option name="HIDE_NULL_ARRAY_ELEMENTS" value="false" />
   </component>
   <component name="XDebuggerSettings">
     <data-views />
-    <general>
-      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
-    </general>
+    <general />
     <debuggers>
       <debugger id="javascript">
         <configuration>
